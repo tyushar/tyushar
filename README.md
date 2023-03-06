@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Blockchain(Web3) developer</h3>
 
 - 🔭 I’m currently working on **Exchanges, NFTs and Metaverse**
