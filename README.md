@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **Exchanges, NFTs and Metaverse**
+- 🔭 I’m currently working on **Exchanges, NFTs , Metaverse and SaaS**
 
 - 💬 Ask me about **React, Solidity and Smart Contracts**
 
